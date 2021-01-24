@@ -1,6 +1,6 @@
 # Dockerfile: hombre-postgres
 
-FROM postgres:12-alpine
+FROM postgres:13-alpine
 
 ARG version
 
